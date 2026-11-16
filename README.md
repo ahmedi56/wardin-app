@@ -1,13 +1,15 @@
 # Wardin: know how long you're covered
 
-Wardin is a free warranty tracker. Photograph a receipt and Wardin fills in the product, store, date, price and warranty. Then it counts the warranty down, reminds you before it ends, and keeps the receipt photo as proof.
+Wardin is a free warranty tracker. Photograph a receipt and Sam, Wardin's helper, saves the product, store, date, price and warranty for you. No form to fill in. Then he counts the warranty down, reminds you before it ends, and helps you claim when something breaks.
 
 <p>
-  <img src="screenshots/1-snap-the-receipt.png" width="200" alt="Wardin fills in the product details from a receipt">
-  <img src="screenshots/2-see-what-ends-soon.png" width="200" alt="Home screen showing a warranty that ends in 12 days">
-  <img src="screenshots/3-your-receipt-saved.png" width="200" alt="The saved receipt opened full screen">
-  <img src="screenshots/4-claim-ready-to-send.png" width="200" alt="A claim summary ready to send to the store">
+  <img src="screenshots/1-sam-saves-it.png" width="200" alt="1. Snap the receipt: Sam saves it and tells you what he saved">
+  <img src="screenshots/2-sam-watches-it.png" width="200" alt="2. Sam watches it: a time bar for each product">
+  <img src="screenshots/3-claim-ready.png" width="200" alt="3. Something broke? The claim is ready to send">
+  <img src="screenshots/4-claim-refused-letter.png" width="200" alt="4. Claim refused? A firm letter with your rights">
 </p>
+
+**1. Snap it, Sam saves it** &nbsp;·&nbsp; **2. Sam watches it** &nbsp;·&nbsp; **3. Something broke? Claim it** &nbsp;·&nbsp; **4. Refused? Ask again**
 
 ## Download
 
@@ -20,11 +22,14 @@ Wardin is free. There are no ads and no in-app purchases.
 
 ## What it does
 
-- **Reads your receipt.** Take a photo and the details are filled in for you. You check them before saving, or type them by hand.
+- **Snap and forget.** Take a photo of the receipt and Sam saves it. He pops up to tell you what he saved: tap **Looks right**, or **Change** to fix the date or warranty length. You can still type everything by hand.
 - **Counts down every warranty.** See at a glance what ends soon and what is still covered.
-- **Reminds you before it ends.** Pick when you want to be reminded. Reminders run on your phone (Android app).
+- **Reminds you before it ends.** Pick when you want to be reminded. A few days after it ends, Sam reminds you once more: the seller may still owe you a repair or refund by law. Reminders run on your phone (Android app).
 - **Keeps the receipt.** The photo is saved with the product. Tap it to open it full screen or share it.
 - **Helps with claims.** If something breaks, Wardin writes a short claim summary you can send to the store or the manufacturer.
+- **Claim refused?** Pick what the store said (water damage, no receipt, warranty ended...) and Wardin writes a firm, polite letter with your rights for your country (EU, UK, US, Australia).
+- **Serial numbers and search.** Save the serial number, then find any product by name, store, date or serial.
+- **Backup and restore.** Export your list, and paste it back to restore it.
 - **Works in your currency.** Choose from 30 currencies.
 
 ## Installing on Android
@@ -49,5 +54,7 @@ Read the full [privacy policy](https://warranty-9ze.pages.dev/privacy/) and [ter
 ## Status
 
 Wardin is an early version, built by one developer. Feedback, bug reports and ideas are very welcome: open an [issue](https://github.com/ahmedi56/wardin-app/issues) or write to **wardin.support@gmail.com**.
+
+Free web tool, no install: [check if a warranty is still valid](https://warranty-9ze.pages.dev/check/).
 
 Made by Wardin Studio, Tunisia.
